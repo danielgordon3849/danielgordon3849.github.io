@@ -118,7 +118,7 @@
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/notifications-subscriptions-menu.933100a30c03fd4e8ae4.module.css" />
 
 
-  <title>ghost-static-blog/ghost_static_generator.py at main · CKraft11/ghost-static-blog · GitHub</title>
+  <title>ghost-static-blog/ghost_static_generator.py at main - CKraft11/ghost-static-blog - GitHub</title>
 
 
 
