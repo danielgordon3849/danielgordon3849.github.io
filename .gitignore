@@ -1,2 +1,3 @@
 ghost-static-env/
 docker-compose.yaml
+ghost/
