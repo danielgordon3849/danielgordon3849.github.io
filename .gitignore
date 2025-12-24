@@ -1,3 +1,4 @@
 ghost-static-env/
 docker-compose.yaml
 ghost/
+python-scraper-installs
