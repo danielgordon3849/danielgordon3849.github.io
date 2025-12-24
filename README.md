@@ -7,5 +7,5 @@ https://cadenkraft.com/creating-a-ghost-blog-with-free-webhosting/
 
 # important notes:
 
-source ghost-static-env/bin/activate # Every new session you will have to run this.
+source ghost-static-env/bin/activate
 python3 ghost_static_generator.py
