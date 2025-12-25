@@ -347,3 +347,37 @@
 {"name":"Log","hostname":"4b6f97f74b1d","pid":1,"level":40,"version":"6.10.2","msg":"Ghost has shut down","time":"2025-12-25T02:31:53.971Z","v":0}
 {"name":"Log","hostname":"4b6f97f74b1d","pid":1,"level":40,"version":"6.10.2","msg":"Your site is now offline","time":"2025-12-25T02:31:53.971Z","v":0}
 {"name":"Log","hostname":"4b6f97f74b1d","pid":1,"level":40,"version":"6.10.2","msg":"Ghost was running for an hour","time":"2025-12-25T02:31:53.973Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":30,"version":"6.10.2","msg":"Ghost is running in production...","time":"2025-12-25T03:15:54.345Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":30,"version":"6.10.2","msg":"Your site is now available on http://localhost:2368/","time":"2025-12-25T03:15:54.346Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":30,"version":"6.10.2","msg":"Ctrl+C to shut down","time":"2025-12-25T03:15:54.347Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":30,"version":"6.10.2","msg":"Ghost server started in 1.003s","time":"2025-12-25T03:15:54.348Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":50,"version":"6.10.2","err":{"id":500,"domain":"http://localhost:2368","code":"ECONNREFUSED","name":"DatabaseError","statusCode":500,"level":"critical","message":"connect ECONNREFUSED 172.18.0.2:3306","help":"\"Unknown database error\"","stack":"Error: connect ECONNREFUSED 172.18.0.2:3306\n    at /var/lib/ghost/versions/6.10.2/node_modules/knex-migrator/lib/database.js:57:19\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","hideStack":false},"msg":"connect ECONNREFUSED 172.18.0.2:3306","time":"2025-12-25T03:15:54.687Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":40,"version":"6.10.2","msg":"Ghost is shutting down","time":"2025-12-25T03:15:54.688Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":40,"version":"6.10.2","msg":"Ghost has shut down","time":"2025-12-25T03:15:54.689Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":40,"version":"6.10.2","msg":"Your site is now offline","time":"2025-12-25T03:15:54.689Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":40,"version":"6.10.2","msg":"Ghost was running for a few seconds","time":"2025-12-25T03:15:54.691Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":30,"version":"6.10.2","msg":"Ghost is running in production...","time":"2025-12-25T03:15:55.757Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":30,"version":"6.10.2","msg":"Your site is now available on http://localhost:2368/","time":"2025-12-25T03:15:55.758Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":30,"version":"6.10.2","msg":"Ctrl+C to shut down","time":"2025-12-25T03:15:55.758Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":30,"version":"6.10.2","msg":"Ghost server started in 0.35s","time":"2025-12-25T03:15:55.759Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":30,"version":"6.10.2","msg":"Database is in a ready state.","time":"2025-12-25T03:15:56.045Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":30,"version":"6.10.2","msg":"Ghost database ready in 0.651s","time":"2025-12-25T03:15:56.060Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":40,"version":"6.10.2","msg":"Missing mail.from config, falling back to a generated email address. Please update your config file and set a valid from address","time":"2025-12-25T03:15:56.423Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":30,"version":"6.10.2","msg":"Invalidating assets for regeneration","time":"2025-12-25T03:15:57.370Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":30,"version":"6.10.2","msg":"Adding offloaded job to the inline job queue","time":"2025-12-25T03:15:58.296Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":30,"version":"6.10.2","msg":"Scheduling job mentions-email-report at 15 18 * * * *. Next run on: Thu Dec 25 2025 03:18:15 GMT+0000 (Coordinated Universal Time)","time":"2025-12-25T03:15:58.304Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":30,"version":"6.10.2","msg":"[EmailAnalytics] Initialized with SEQUENTIAL processing mode","time":"2025-12-25T03:15:58.555Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":30,"version":"6.10.2","msg":"Explore ping disabled","time":"2025-12-25T03:15:58.719Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":30,"version":"6.10.2","msg":"Adding offloaded job to the inline job queue","time":"2025-12-25T03:15:58.730Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":30,"version":"6.10.2","msg":"Scheduling job clean-expired-comped at 46 43 5 * * *. Next run on: Thu Dec 25 2025 05:43:46 GMT+0000 (Coordinated Universal Time)","time":"2025-12-25T03:15:58.733Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":30,"version":"6.10.2","msg":"Adding offloaded job to the inline job queue","time":"2025-12-25T03:15:58.739Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":30,"version":"6.10.2","msg":"Scheduling job clean-tokens at 16 58 1 * * *. Next run on: Fri Dec 26 2025 01:58:16 GMT+0000 (Coordinated Universal Time)","time":"2025-12-25T03:15:58.741Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":30,"version":"6.10.2","msg":"Ghost booted in 3.392s","time":"2025-12-25T03:15:58.801Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":30,"version":"6.10.2","msg":"Adding offloaded job to the inline job queue","time":"2025-12-25T03:15:58.833Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":30,"version":"6.10.2","msg":"Scheduling job update-check at 20 3 10 * * *. Next run on: Thu Dec 25 2025 10:03:20 GMT+0000 (Coordinated Universal Time)","time":"2025-12-25T03:15:58.837Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":30,"version":"6.10.2","msg":"Running milestone emails job on Thu Dec 25 2025 03:15:59 GMT+0000 (Coordinated Universal Time)","time":"2025-12-25T03:15:59.011Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":30,"version":"6.10.2","msg":"URL Service ready in 1965ms","time":"2025-12-25T03:15:59.011Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":40,"version":"6.10.2","msg":"Ghost is shutting down","time":"2025-12-25T03:16:12.503Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":40,"version":"6.10.2","msg":"Ghost has shut down","time":"2025-12-25T03:16:12.507Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":40,"version":"6.10.2","msg":"Your site is now offline","time":"2025-12-25T03:16:12.508Z","v":0}
+{"name":"Log","hostname":"c95e903dbadd","pid":1,"level":40,"version":"6.10.2","msg":"Ghost was running for a few seconds","time":"2025-12-25T03:16:12.509Z","v":0}
