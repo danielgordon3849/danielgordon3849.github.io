@@ -1,7 +1,10 @@
 routes:
+  /:
+    data: page.home
+    template: page
 
 collections:
-  /:
+  /blog/:
     permalink: /{slug}/
     template: index
 
